@@ -1,1 +1,0 @@
-javascript-objects-lab-bootcamp-prep-000
